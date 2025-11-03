@@ -1,0 +1,5 @@
+pandas
+numpy
+# Optional (for parquet output):
+# pyarrow
+# fastparquet
